@@ -1,0 +1,1 @@
+[{"name":"Adam","grade":3.6},{"name":"Konrad","grade":33.4},{"name":"Adam3","grade":3.61},{"name":"Konrad3","grade":33.42}]
